@@ -1,0 +1,15 @@
+C:\Users\po44oov\Desktop\PasswordManager\PasswordManager.exe
+C:\Users\po44oov\Desktop\PasswordManager\PasswordManager.dll
+C:\Users\po44oov\Desktop\PasswordManager\PasswordManager.deps.json
+C:\Users\po44oov\Desktop\PasswordManager\PasswordManager.runtimeconfig.json
+C:\Users\po44oov\Desktop\PasswordManager\PasswordManager.pdb
+C:\Users\po44oov\Desktop\PasswordManager\Microsoft.Win32.SystemEvents.dll
+C:\Users\po44oov\Desktop\PasswordManager\System.Configuration.ConfigurationManager.dll
+C:\Users\po44oov\Desktop\PasswordManager\System.Drawing.Common.dll
+C:\Users\po44oov\Desktop\PasswordManager\System.Security.Cryptography.ProtectedData.dll
+C:\Users\po44oov\Desktop\PasswordManager\System.Security.Permissions.dll
+C:\Users\po44oov\Desktop\PasswordManager\System.Windows.Extensions.dll
+C:\Users\po44oov\Desktop\PasswordManager\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\po44oov\Desktop\PasswordManager\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\po44oov\Desktop\PasswordManager\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\po44oov\Desktop\PasswordManager\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
